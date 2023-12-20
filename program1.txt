@@ -1,7 +1,7 @@
 class m1{
 public static void main()
-      int n =1;
-      int m =2;
+      int n =5;
+      int m =10;
       int sum = n+m;
   system.out.println(sum);
 }
