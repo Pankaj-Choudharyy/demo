@@ -1,0 +1,7 @@
+class m1{
+public static void main()
+      int i=5;
+      int j=5;
+      int mul = n*m;
+  system.out.println(mul);
+}
